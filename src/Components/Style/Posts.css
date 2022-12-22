@@ -1,0 +1,45 @@
+.Main
+{
+    position: relative;
+    top: 20px;
+    left: 160px;
+}
+
+
+
+.Posts
+{
+    position: relative;
+    top: -370px;
+    left: 300px;
+}
+
+
+.Save1
+{
+  position: relative;
+  left: 500px;
+  top:2px;
+  
+}
+
+.chat
+  {
+    position: relative;
+    top: -100px;
+    left: 530px;
+    width: 24px;
+    height: 24px;
+  }
+
+
+  .story
+{
+  position: relative;
+  top:-88px;
+  left: -262px;
+  border-radius: 160px;
+  width:50px; 
+  height:50px;
+
+}

@@ -1,0 +1,28 @@
+.loginform
+{
+    position: relative;
+  top:-360px;
+  left: 300px;
+  font-size: 30px;
+
+
+}
+
+.loginform1
+{
+    position: relative;
+    top:10px;
+    left: 170px;
+    font-size: 15px;
+}
+
+.loginform3
+{
+    position: relative;
+  top:-420px;
+  left: 400px;
+  font-size: 30px;
+  color: red;
+
+
+}

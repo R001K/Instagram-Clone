@@ -1,0 +1,50 @@
+.Plant
+{
+  position: relative;
+  left: 300px;
+  top: 10px; 
+  border: 4;
+  
+
+  border-style: solid;
+  border-color: white;
+  width: 405px;
+  height: 485px;
+  background-color: white;
+  border-top-width: 30px; 
+}
+
+.Comment
+{
+  position: relative;
+  left: 10px;
+  top:2px;  
+  
+}
+
+.Send
+{
+  position: relative;
+  left: 20px;
+  top:2px;
+  
+}
+
+
+.Save
+{
+  position: relative;
+  left: 320px;
+  top:2px;
+  
+}
+
+
+.backgrounColor
+{   
+  position: relative;
+  top: -450px;
+  
+  background-color:white;
+  height: 1000px;
+}

@@ -1,0 +1,125 @@
+.profile
+{
+  position: relative;
+  top:-400px;
+  left: 120px;
+  border-radius: 140px;
+  width:200px; 
+  height:180px;
+
+
+}
+
+.P 
+{
+  position: absolute;
+  top: 250px;
+  left: 460px;
+  font-size: 20px;
+
+}
+.F1
+{
+  position: absolute;
+  top: 250px;
+  left: 600px;
+  font-size: 20px;
+
+}
+
+.F2
+{
+  position: absolute;
+  top: 250px;
+  left: 780px;
+  font-size: 20px;
+
+}
+
+.M1
+{
+  position: absolute;
+  top: 220px;
+  left: 470px;
+  font-size: 20px;
+
+}
+.M2
+{
+  position: absolute;
+  top: 220px;
+  left: 622px;
+  font-size: 20px;
+
+}
+
+.M3
+{
+  position: absolute;
+  top: 220px;
+  left: 815px;
+  font-size: 20px;
+
+}
+
+.Edit
+{
+  position: absolute;
+  top: 450px;
+  left: 20px;
+  font-size: 20px;
+  width: 1100px;
+  height: 20px;
+  background-color: black;
+color: white;
+
+
+}
+.BIO
+{
+  position: relative;
+  top:-400px;
+  left: 145px;
+  border-radius: 140px;
+  width:200px; 
+  height:180px;
+
+
+}
+
+.Username
+{
+  position: relative;
+  top:-840px;
+  left: 20px;
+font-size: 20px;
+background-color: black;
+color: white;
+width:139px; 
+height:22px;
+
+
+}
+
+
+.Posts
+{
+
+  position: relative;
+  left: 100px;
+  top: -400px;
+  font-size: 20px;
+}
+
+
+.Tags
+{
+  
+  position: relative;
+  left: 900px;
+  top: -425px;
+  font-size: 20px;
+
+
+
+}

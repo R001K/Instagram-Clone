@@ -1,0 +1,13 @@
+.add
+{
+position: relative;
+left: 100px;
+top:100px;
+background-image: "Images/add.png";
+color: chartreuse;
+}
+
+.add1
+{
+    background-color: red;
+}
